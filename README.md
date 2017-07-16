@@ -1,3 +1,2 @@
-# TRep1
-Teja Repository
+Teja Repository mater
 Hi this is teja 
